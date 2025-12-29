@@ -14,8 +14,10 @@ def character_count(text):
 
     return char_counts
 
+
 def sort_on_num(item):
     return item["num"]
+
 
 def sort_char_counts(char_counts):
     chars_list = []
